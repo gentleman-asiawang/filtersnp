@@ -5,6 +5,8 @@
 #include "RewriteRecord.hpp"
 #include "spdlog/spdlog.h"
 
+#include <algorithm>
+
 void handleRecord(const bcf_hdr_t *header, bcf1_t *record, const Params &params, const Controller &controller, std::queue<bcf1_t *> &writeQueue, std
                   ::mutex &queueMutex, std::condition_variable &cv) {
     spdlog::debug("Record: {}:{}, n_alleles:{}", bcf_hdr_id2name(header, record->rid), record->pos + 1, controller.n_alleles);
