@@ -1,3 +1,0 @@
-/Users/yzwang/CLionProjects/filtersnp/cmake-build-debug/CMakeFiles/filtersnp.dir
-/Users/yzwang/CLionProjects/filtersnp/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/yzwang/CLionProjects/filtersnp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

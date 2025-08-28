@@ -1,8 +1,0 @@
-# ninja log v6
-6	1468	1737085830658782476	CMakeFiles/filtersnp.dir/src/paramsControl.cpp.o	12e95558496a4e3
-6	1538	1737085830658913810	CMakeFiles/filtersnp.dir/src/processLine.cpp.o	cbee228a4bc27524
-1446	1480	1737088446266162243	filtersnp	806bf68e79df5003
-5	1446	1737088444825654676	CMakeFiles/filtersnp.dir/main.cpp.o	4cd8a8a59054acaa
-6	448	1737085830659173689	CMakeFiles/filtersnp.dir/src/worker_thread.cpp.o	60baa363faaa0d1
-5	1454	1737085830658645682	CMakeFiles/filtersnp.dir/src/RewriteRecord.cpp.o	931ffd471826ef1a
-6	445	1737085830659047187	CMakeFiles/filtersnp.dir/src/threadPool.cpp.o	b7c28e527887eb7c
